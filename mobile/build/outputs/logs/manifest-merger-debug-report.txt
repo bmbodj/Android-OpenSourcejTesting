@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:design:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6276fa735e95d0a416f4064cdcffa9d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ed27e85bd9d9b87a3afbab16a9830793/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/343adc112979609f5427fd5b5ef8cb23/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bb1d1d38cd6b83b5ad226eab4acd381b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d654445520187179c81fc93cc518f5b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6d7121746c1f250b899a31ed179dc127/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4c57eb7bb6af754bd43753f96ddae858/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cb42954399d0f919810f549e99609196/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/680e1dfddc0818d7cccb842dd186224e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/81ff69421a10fa9eaad9b9a1cfe57a39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ab37b1a048ef79c9f33c6085d28f9381/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e4989d85eb1ed9499083f802d786725f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5501d21c1a2302068b40338ef3250307/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f53deefa496adab48dfa61baeabc1705/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dadd49854fd49948d2180d5802bf86ec/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7641c273b2e5c268c7838961d0b3beed/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:2:70-100
+	android:versionName
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:3:27-52
+		INJECTED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:3:2-26
+		INJECTED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:5:5-74
+MERGED from [com.android.support:design:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6276fa735e95d0a416f4064cdcffa9d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6276fa735e95d0a416f4064cdcffa9d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ed27e85bd9d9b87a3afbab16a9830793/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ed27e85bd9d9b87a3afbab16a9830793/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/343adc112979609f5427fd5b5ef8cb23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/343adc112979609f5427fd5b5ef8cb23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bb1d1d38cd6b83b5ad226eab4acd381b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bb1d1d38cd6b83b5ad226eab4acd381b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d654445520187179c81fc93cc518f5b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d654445520187179c81fc93cc518f5b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6d7121746c1f250b899a31ed179dc127/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/6d7121746c1f250b899a31ed179dc127/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4c57eb7bb6af754bd43753f96ddae858/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4c57eb7bb6af754bd43753f96ddae858/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cb42954399d0f919810f549e99609196/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cb42954399d0f919810f549e99609196/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/680e1dfddc0818d7cccb842dd186224e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/680e1dfddc0818d7cccb842dd186224e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/81ff69421a10fa9eaad9b9a1cfe57a39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/81ff69421a10fa9eaad9b9a1cfe57a39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ab37b1a048ef79c9f33c6085d28f9381/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ab37b1a048ef79c9f33c6085d28f9381/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e4989d85eb1ed9499083f802d786725f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e4989d85eb1ed9499083f802d786725f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5501d21c1a2302068b40338ef3250307/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5501d21c1a2302068b40338ef3250307/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f53deefa496adab48dfa61baeabc1705/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f53deefa496adab48dfa61baeabc1705/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dadd49854fd49948d2180d5802bf86ec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dadd49854fd49948d2180d5802bf86ec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7641c273b2e5c268c7838961d0b3beed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/bourymbodj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7641c273b2e5c268c7838961d0b3beed/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:5:42-71
+	android:minSdkVersion
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:5:15-41
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:7:2-62
+	android:name
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:7:19-60
+uses-feature#android.hardware.screen.portrait
+ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:9:2-89
+	android:required
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:9:64-87
+	android:name
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:9:16-63
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:10:2-85
+	android:required
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:10:60-83
+	android:name
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:10:16-59
+supports-screens
+ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:12:2-137
+	android:largeScreens
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:12:78-105
+	android:smallScreens
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:12:20-48
+	android:normalScreens
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:12:49-77
+	android:xlargeScreens
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:12:106-134
+application
+ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:14:2-36:16
+	android:label
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:14:49-72
+	android:icon
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:14:15-48
+	android:allowBackup
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:16:6-32
+	android:theme
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:15:6-62
+activity#org.scoutant.blokish.UI
+ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:17:3-26:14
+	android:screenOrientation
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:20:7-43
+	android:exported
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:19:4-27
+	android:theme
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:18:4-60
+	android:name
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:17:13-31
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:22:4-25:20
+action#android.intent.action.MAIN
+ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:23:5-57
+	android:name
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:23:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:24:15-62
+activity#org.scoutant.blokish.Settings
+ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:27:3-31:9
+	android:screenOrientation
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:28:7-43
+	android:parentActivityName
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:29:7-39
+	android:label
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:27:38-73
+	android:theme
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:30:7-49
+	android:name
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:27:13-37
+activity#org.scoutant.blokish.Help
+ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:32:3-35:9
+	android:screenOrientation
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:33:7-43
+	android:parentActivityName
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:34:7-39
+	android:label
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:32:34-54
+	android:name
+		ADDED from /Users/bourymbodj/Downloads/team-17-blokish-master/mobile/src/main/AndroidManifest.xml:32:13-33
